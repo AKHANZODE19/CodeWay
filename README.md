@@ -10,6 +10,7 @@ Generates a random number within a specified range (e.g., 1 to 100).
 Allows the user to guess the number and provides feedback on whether the guess is correct, too high, or too low.
 Limits the number of attempts the user has to guess the number.
 Supports multiple rounds and displays the user's score.
+
 Task 2: Student Grade Calculator
 Description
 A program to calculate a student's total marks, average percentage, and corresponding grade based on the marks obtained in each subject.
@@ -19,6 +20,7 @@ Takes marks obtained (out of 100) in each subject as input.
 Calculates total marks and average percentage.
 Assigns grades based on the average percentage achieved.
 Displays total marks, average percentage, and grade to the user.
+
 Task 3: ATM Interface
 Description
 A command-line interface for an ATM machine allowing users to withdraw, deposit, and check their balance.
@@ -27,6 +29,7 @@ Features
 Supports options such as withdrawing, depositing, and checking balance.
 Validates user input to ensure it is within acceptable limits.
 Displays appropriate messages based on user actions.
+
 Task 4: Quiz Application with Timer
 Description
 A quiz application with a timer for each question, where users can answer multiple-choice questions within a specified time limit.
